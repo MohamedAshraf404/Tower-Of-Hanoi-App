@@ -1,0 +1,60 @@
+C:\Users\NV_USER\source\repos\towers of hanoi\bin\Debug\towers of hanoi.exe.config
+C:\Users\NV_USER\source\repos\towers of hanoi\bin\Debug\towers of hanoi.exe
+C:\Users\NV_USER\source\repos\towers of hanoi\bin\Debug\towers of hanoi.pdb
+C:\Users\NV_USER\source\repos\towers of hanoi\obj\Debug\towers of hanoi.csproj.AssemblyReference.cache
+C:\Users\NV_USER\source\repos\towers of hanoi\obj\Debug\towers_of_hanoi.Form1.resources
+C:\Users\NV_USER\source\repos\towers of hanoi\obj\Debug\towers_of_hanoi.Properties.Resources.resources
+C:\Users\NV_USER\source\repos\towers of hanoi\obj\Debug\towers of hanoi.csproj.GenerateResource.cache
+C:\Users\NV_USER\source\repos\towers of hanoi\obj\Debug\towers of hanoi.csproj.CoreCompileInputs.cache
+C:\Users\NV_USER\source\repos\towers of hanoi\obj\Debug\towers of hanoi.exe
+C:\Users\NV_USER\source\repos\towers of hanoi\obj\Debug\towers of hanoi.pdb
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\bin\Debug\towers of hanoi.exe.config
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\bin\Debug\towers of hanoi.exe
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\bin\Debug\towers of hanoi.pdb
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\obj\Debug\towers of hanoi.csprojAssemblyReference.cache
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\obj\Debug\towers_of_hanoi.Form1.resources
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\obj\Debug\towers_of_hanoi.Properties.Resources.resources
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\obj\Debug\towers of hanoi.csproj.GenerateResource.cache
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\obj\Debug\towers of hanoi.csproj.CoreCompileInputs.cache
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\obj\Debug\towers of hanoi.exe
+C:\Users\plaza\Desktop\PRO\towers of hanoi TEAM\obj\Debug\towers of hanoi.pdb
+C:\Users\plaza\Desktop\towers of hanoi TEAM\bin\Debug\towers of hanoi.exe.config
+C:\Users\plaza\Desktop\towers of hanoi TEAM\bin\Debug\towers of hanoi.exe
+C:\Users\plaza\Desktop\towers of hanoi TEAM\bin\Debug\towers of hanoi.pdb
+C:\Users\plaza\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.csprojAssemblyReference.cache
+C:\Users\plaza\Desktop\towers of hanoi TEAM\obj\Debug\towers_of_hanoi.Form1.resources
+C:\Users\plaza\Desktop\towers of hanoi TEAM\obj\Debug\towers_of_hanoi.Properties.Resources.resources
+C:\Users\plaza\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.csproj.GenerateResource.cache
+C:\Users\plaza\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.csproj.CoreCompileInputs.cache
+C:\Users\plaza\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.exe
+C:\Users\plaza\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.pdb
+C:\Users\HP\Desktop\towers of hanoi TEAM\bin\Debug\towers of hanoi.exe.config
+C:\Users\HP\Desktop\towers of hanoi TEAM\bin\Debug\towers of hanoi.exe
+C:\Users\HP\Desktop\towers of hanoi TEAM\bin\Debug\towers of hanoi.pdb
+C:\Users\HP\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\towers of hanoi TEAM\obj\Debug\towers_of_hanoi.Form1.resources
+C:\Users\HP\Desktop\towers of hanoi TEAM\obj\Debug\towers_of_hanoi.Properties.Resources.resources
+C:\Users\HP\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.exe
+C:\Users\HP\Desktop\towers of hanoi TEAM\obj\Debug\towers of hanoi.pdb
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\bin\Debug\towers of hanoi.exe.config
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\bin\Debug\towers of hanoi.exe
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\bin\Debug\towers of hanoi.pdb
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\obj\Debug\towers of hanoi.csprojAssemblyReference.cache
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\obj\Debug\towers_of_hanoi.Form1.resources
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\obj\Debug\towers_of_hanoi.Properties.Resources.resources
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\obj\Debug\towers of hanoi.csproj.GenerateResource.cache
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\obj\Debug\towers of hanoi.csproj.CoreCompileInputs.cache
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\obj\Debug\towers of hanoi.exe
+C:\Users\plaza\Desktop\Alterd Tower Of Hanoi\obj\Debug\towers of hanoi.pdb
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\bin\Debug\towers of hanoi.exe.config
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\bin\Debug\towers of hanoi.exe
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\bin\Debug\towers of hanoi.pdb
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\obj\Debug\towers of hanoi.csprojAssemblyReference.cache
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\obj\Debug\towers_of_hanoi.Form1.resources
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\obj\Debug\towers_of_hanoi.Properties.Resources.resources
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\obj\Debug\towers of hanoi.csproj.GenerateResource.cache
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\obj\Debug\towers of hanoi.csproj.CoreCompileInputs.cache
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\obj\Debug\towers of hanoi.exe
+C:\Users\plaza\Desktop\PC 2\Alterd Tower Of Hanoi\Project\obj\Debug\towers of hanoi.pdb
